@@ -1,1 +1,1 @@
-docker/ubuntu16.04/amd64/Dockerfile
+docker/amd64/Dockerfile.ubuntu16.04
